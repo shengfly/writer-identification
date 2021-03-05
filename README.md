@@ -1,6 +1,6 @@
 # writer-identification
 
-This will include the source codes of our works: including FragNet and GR-RNN.
+This will include the source codes of our works: FragNet and GR-RNN.
 
 1, Sheng He and Lambert Schomaker. FragNet: Writer Identification using Deep Fragment Networks, IEEE Transactions on Information Forensics and Security.
 
