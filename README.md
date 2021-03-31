@@ -1,4 +1,4 @@
-# writer-identification
+# Writer-identification
 
 This will include the source codes of our works: FragNet and GR-RNN.
 
