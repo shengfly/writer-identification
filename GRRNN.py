@@ -100,7 +100,7 @@ class GRUcell(nn.Module):
 
         
 class GrnnNet(nn.Module):
-    def __init__(self,input_channel,num_classes=105,mode='global'):
+    def __init__(self,input_channel,num_classes=105,mode='vertical'):
         super().__init__()
         
         self.mode = mode
