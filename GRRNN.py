@@ -8,6 +8,7 @@
     
     @email: heshengxgd@gmail.com
     @author: Sheng He
+    @Github: https://github.com/shengfly/writer-identification
     
 """
   
