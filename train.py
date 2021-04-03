@@ -37,9 +37,7 @@ class LabelSomCE(nn.Module):
 def download(folder,thetarfile):
     import urllib.request
     import tarfile
-    #thetarfile = "https://www.ai.rug.nl/~sheng/writerset/CERUG-EN-train-images.tar.gz"
     ftpstream = urllib.request.urlopen(thetarfile)
-    #print(ftpstream)
     thetarfile = tarfile.open(fileobj=ftpstream, mode="r|gz")
     thetarfile.extractall(folder)
     thetarfile.close()
