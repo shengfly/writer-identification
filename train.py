@@ -1,10 +1,12 @@
 """
-
+    This code is for the following paper:
+    
     Sheng He and Lambert Schomaker
     SGR-RNN: Global-Context Residual Recurrent Neural Networks for Writer Identification
     Pattern Recognition
     
-    heshengxgd@gmail.com
+    @email: heshengxgd@gmail.com
+    @author: Sheng He
     
 """
 
