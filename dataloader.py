@@ -1,15 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb  4 09:00:22 2020
 
-@author: Sheng He
-
-@email:  heshengxgd@gmail.com
 """
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec  4 13:02:00 2019
 
 @author: sheng he 
 @email: heshengxgd@gmail.com
