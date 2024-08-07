@@ -46,15 +46,15 @@ def download(folder,thetarfile):
     thetarfile.close()
     
 def download_cerug(folder):
-    thetarfile = "https://www.ai.rug.nl/~sheng/writerset/CERUG-EN-train-images.tar.gz"
+    thetarfile = "https://zenodo.org/records/13258163/files/CERUG-EN-test-images.tar.gz?download=1"
     download(folder,thetarfile)
-    thetarfile = "https://www.ai.rug.nl/~sheng/writerset/CERUG-EN-test-images.tar.gz"
+    thetarfile = "https://zenodo.org/records/13258163/files/CERUG-EN-train-images.tar.gz?download=1"
     download(folder,thetarfile)
 
 def download_firemaker(folder):
-    thetarfile = "https://www.ai.rug.nl/~sheng/writerset/Firemaker-train-images.tar.gz"
+    thetarfile = "https://zenodo.org/records/13258163/files/Firemaker-train-images.tar.gz?download=1"
     download(folder,thetarfile)
-    thetarfile = "https://www.ai.rug.nl/~sheng/writerset/Firemaker-test-images.tar.gz"
+    thetarfile = "https://zenodo.org/records/13258163/files/Firemaker-test-images.tar.gz?download=1"
     download(folder,thetarfile)
     
 class DeepWriter_Train:
