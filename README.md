@@ -9,6 +9,4 @@ It includes the source codes of our works: FragNet and GR-RNN.
 # Dataset
 1, Firemaker and CERUG are embeded in the code.
 
-2, IAM and CVL: visit website: https://www.ai.rug.nl/~sheng/writeridataset.html
-
-3, The Completed CERUG data set can be downloaded from: www.ai.rug.nl/~sheng/cerug.tar.gz
+3, The Completed CERUG data set can be downloaded from: https://zenodo.org/records/13258163
