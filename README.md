@@ -10,4 +10,4 @@ It includes the source codes of our works: FragNet and GR-RNN.
 
 1, Firemaker and CERUG are embeded in the code.
 
-3, The Completed CERUG data set can be downloaded from: https://zenodo.org/records/13258163
+3, The CERUG and Firemaker data set can be also downloaded from: https://zenodo.org/records/13258163
